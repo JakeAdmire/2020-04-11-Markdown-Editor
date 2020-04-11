@@ -1,0 +1,10 @@
+.Monitor {
+    padding: 1rem;
+    background: #e8e8e8;
+    font-family: 'Roboto', sans-serif;
+    overflow: auto;
+}
+
+.Monitor hr {
+    border: solid lightgrey 1px;
+}

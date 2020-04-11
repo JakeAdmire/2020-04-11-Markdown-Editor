@@ -1,0 +1,22 @@
+* {
+  box-sizing: border-box;
+}
+
+.App header {
+  padding: 0.4rem 1rem;
+  color: white;
+  height: 50px;
+  background: #0097e0;
+  font-size: 30px;
+}
+
+.columns {
+  display: flex;
+  justify-content: space-between;
+
+  height: calc(100vh - 50px);
+}
+
+.columns > * {
+  width: 100%;
+}
