@@ -23,9 +23,7 @@
 
 ## About The Project
 
-**blueprints-ui** is a ReactJS component library & UI design system.
-
-This library provides a ton of unique, customizable components that are flexible enough to solve any challenge
+**Simple Markdown Editor** provides a quick & easy way to decorate your READMEs!
 
 ---
 
